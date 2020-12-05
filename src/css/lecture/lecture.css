@@ -1,0 +1,8 @@
+.lecture-card {
+    max-width: 50%;
+    margin: auto !important;
+}
+
+.lecture-card .card-body button {
+    margin-left: 90%;
+}

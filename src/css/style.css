@@ -1,0 +1,10 @@
+@import './shared.css';
+@import './App.css';
+@import './index.css';
+@import './chat/_chat.css';
+@import './chat/_privChatInbox.css';
+@import './assignment/assignment.css';
+@import './assignment/assignmentPage.css';
+@import './lecture/lecture.css';
+@import './lecture/lecturePage.css';
+@import './layout/footer.css';

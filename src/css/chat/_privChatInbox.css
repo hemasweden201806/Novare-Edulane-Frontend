@@ -1,0 +1,26 @@
+.message-box-priv {
+  display: flex;
+  align-items: center;
+  background-color: rgb(23, 90, 162);
+  margin-bottom: 10px;
+}
+
+/* Priv Avatar */
+.MuiAvatar-root.MuiAvatar-circle.message-avatar-priv.MuiAvatar-colorDefault {
+  background-color: rgb(92, 148, 110);
+  margin: 10px;
+}
+
+.start-conversation {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.conversation-button.MuiButton-containedPrimary {
+  /* margin-right: 10px; */
+}
+
+.ui.selection.dropdown.conversation-dropdown {
+  margin-left: 10px;
+}

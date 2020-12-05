@@ -1,0 +1,15 @@
+.live {
+  background-color: rgba(0, 0, 0, 0.4);
+
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+.offline {
+  display: flex;
+  justify-content: center;
+  margin-top: 40vh;
+}

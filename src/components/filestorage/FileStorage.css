@@ -1,0 +1,9 @@
+.card-filestorage {
+    
+    max-width: 50%;
+    margin: auto !important;
+}
+
+.card-filestorage .card-body button {
+    margin-left: 50%;
+}

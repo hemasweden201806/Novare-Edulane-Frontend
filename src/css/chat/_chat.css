@@ -1,0 +1,57 @@
+.message-box-user {
+  display: flex;
+  align-items: center;
+  background-color: rgb(83, 83, 165);
+  margin-bottom: 10px;
+}
+
+.message-box-sender {
+  display: flex;
+  align-items: center;
+  background-color: rgb(88, 154, 75);
+  margin-bottom: 10px;
+}
+
+/* User Avatar */
+.MuiAvatar-root.MuiAvatar-circle.message-avatar-user.MuiAvatar-colorDefault {
+  background-color: rgb(233, 130, 74);
+  margin: 10px;
+}
+
+/* Sender Avatar */
+.MuiAvatar-root.MuiAvatar-circle.message-avatar-sender.MuiAvatar-colorDefault {
+  background-color: rgb(58, 77, 182);
+  margin: 10px;
+}
+
+.message-sender {
+  padding: 10px;
+  color: rgb(172, 175, 177);
+}
+
+.message-content {
+  margin: 10px;
+}
+
+.message-time {
+  margin-left: auto;
+  margin-right: 10px;
+  color: rgb(172, 175, 177);
+  font-size: 0.8em;
+}
+.message-form {
+  display: flex;
+  align-items: center;
+}
+
+.MuiFab-root.MuiFab-sizeSmall {
+  background-color: rgb(83, 83, 165);
+  margin-left: 10px;
+  margin-bottom: 16px;
+}
+
+.paper {
+  display: flex;
+  flex-direction: column;
+  justify-items: flex-end;
+}
